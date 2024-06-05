@@ -1,2 +1,2 @@
 # FireMatch
-Link to our latest work SIAVC \url https://github.com/AlchemyEmperor/SIAVC
+[Link]([https://arxiv.org/abs/2405.14506](https://github.com/AlchemyEmperor/SIAVC)) to our latest work SIAVC.
